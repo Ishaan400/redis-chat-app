@@ -3,9 +3,7 @@
 ## Description
 
 A real-time chat web app where users can log in, add friends and communicate with them in real time.
-This application was built publicly with the entire build process avaiable on YouTube in a tutorial format.
 
-[YouTube Playist](https://www.youtube.com/playlist?list=PLBieMfwfePY-PPxTYmYZteqYpC_D7W1JT)
 
 ## Project Structure
 
