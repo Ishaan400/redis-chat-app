@@ -1,4 +1,4 @@
-# react-live-messenger
+# redis-live-messenger
 
 ## Description
 
